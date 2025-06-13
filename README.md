@@ -3,7 +3,6 @@
   <p><em>🗂️A file list program that supports multiple storages, powered by Gin and Solidjs.</em></p>
 </div>
 
----
 
 > [!IMPORTANT]
 > 
