@@ -53,9 +53,8 @@ jobs:
             github.com/alist-org/alist/v3/internal/conf.GitCommit=$git_commit
             github.com/alist-org/alist/v3/internal/conf.Version=$tag
             github.com/alist-org/alist/v3/internal/conf.WebVersion=dev
-
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: alist_${{ env.SHA }}_${{ matrix.target }}
+          name: openlist_${{ env.SHA }}_${{ matrix.target }}
           path: build/*
