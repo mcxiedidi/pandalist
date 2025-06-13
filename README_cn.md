@@ -6,7 +6,7 @@
 
 ---
 
-[English](./README.md) | 中文 | [日本語](./README_ja.md)
+[English](./README.md) | 中文 
 
 ## 功能
 
